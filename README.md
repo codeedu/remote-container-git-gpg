@@ -1,6 +1,6 @@
-![Imersão Full Stack && Full Cycle](https://fullcycle.com.br/wp-content/themes/fullcycle/assets/images/fullcycle-logo.svg)
+![Full Cycle](https://fullcycle.com.br/wp-content/themes/fullcycle/assets/images/fullcycle-logo.svg)
 
-Participe gratuitamente: https://fullcycle.com.br/
+Acesse nosso site: https://fullcycle.com.br/
 
 ## Sobre o repositório
 Esse repositório contém o código-fonte ministrado na aula Assinatura de commits no Remote Container do VSCode: [https://www.youtube.com/watch?v=5IPrjAEqfQ0](https://www.youtube.com/watch?v=5IPrjAEqfQ0)
